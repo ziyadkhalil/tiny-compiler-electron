@@ -1,0 +1,29 @@
+{
+  "name": "tiny-compiler-electron",
+  "version": "1.0.0",
+  "description": "an electron implementation of tiny language compiler",
+  "main": "main.js",
+  "dependencies": {
+    "xregexp": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyadKhalil/tiny-language-compiler.git"
+  },
+  "keywords": [
+    "compilers",
+    "compiler",
+    "tiny-language",
+    "electron"
+  ],
+  "author": "ziyadkhalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyadKhalil/tiny-language-compiler/issues"
+  },
+  "homepage": "https://github.com/ZiyadKhalil/tiny-language-compiler#readme"
+}
